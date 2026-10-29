@@ -1,0 +1,1 @@
+"# CPP_GCC_TEMPLATE" 
